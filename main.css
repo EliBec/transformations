@@ -1,0 +1,6 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #e84610;
+    transform: translate(100px, 100px) /* moves the animation 100 px to the y axis and 100 px to the x axis */
+}
